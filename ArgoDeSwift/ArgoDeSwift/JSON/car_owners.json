@@ -1,0 +1,13 @@
+ [{
+  "id": 34,
+  "name": "Juan",
+  "cars": []
+  },{
+  "id": 35,
+  "name": "Paco",
+  "cars": [{"year":2000,"brand":"citroen"}]
+  },{
+  "id": 36,
+  "name": "Salvador",
+  "cars": [{"year":2000,"brand":"peugeot"},{"year":2005,"brand":"renault"}]
+  }]

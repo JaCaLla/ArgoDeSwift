@@ -1,0 +1,18 @@
+{
+    "persons": [{
+                "id": 34,
+                "name": "Sergio",
+                "email": "sg@fm.com"
+                }, {
+                "id": 35,
+                "name": "Remedios",
+                "email": "rm@fm.com"
+                }],
+    "cars": [{
+             "year": 2000,
+             "brand": "citroen"
+             }, {
+             "year": 2005,
+             "brand": "renault"
+             }]
+}

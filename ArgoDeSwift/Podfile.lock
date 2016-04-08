@@ -1,0 +1,13 @@
+PODS:
+  - Argo (3.0.1)
+  - Curry (2.2.0)
+
+DEPENDENCIES:
+  - Argo
+  - Curry
+
+SPEC CHECKSUMS:
+  Argo: 22c5d62b7967020a641468c91dc9488bea9523b8
+  Curry: c22d80fff7f5a4b1bbd531455c3e2dbb099658a3
+
+COCOAPODS: 0.39.0
